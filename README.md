@@ -44,3 +44,8 @@ My focus is on delivering **working, reliable, and on-time solutions**.
 **Open for paid tasks, short-term gigs, and collaborations.**
 
 ---
+## 📌 Featured Project
+- 🔹 **Task Automation Demo**  
+  A simple automation script that cleans and formats text files —  
+  representing real client-style tasks.  
+  👉 https://github.com/faiez491/task-automation-demo
