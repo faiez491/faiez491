@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Faiez 👋
 
-<!--
-**faiez491/faiez491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Freelance Developer | Automation & Task Solutions
 
-Here are some ideas to get you started:
+I help clients complete tasks efficiently using **AI-assisted development** combined with **manual review, testing, and customization**.  
+My focus is on delivering **working, reliable, and on-time solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+- ✅ Complete client tasks & assignments
+- ⚙️ Build scripts and automations
+- 🛠 Fix bugs and improve existing code
+- 🤖 Use AI responsibly to speed up development
+- 📦 Deliver clean and usable results
+
+---
+
+## 🛠 Skills & Tools
+- Programming & Scripting
+- Automation workflows
+- Debugging & optimization
+- Git & GitHub
+- AI-assisted development (reviewed & tested)
+
+---
+
+## 🤝 How I Work
+- Clear communication
+- Honest timelines
+- Quality-focused delivery
+- Modern tools + human understanding
+
+> I use AI as a **tool**, not a shortcut.  
+> Every solution is reviewed and adapted to the client’s needs.
+
+---
+
+## 📬 Contact Me
+- 📧 Email: your@email.com  
+- 💬 GitHub Issues / Discussions  
+
+**Open for paid tasks, short-term gigs, and collaborations.**
+
+---
+
+## ⚡ Profile Automation
+This profile is partially updated automatically using GitHub Actions  
+(to keep stats and activity fresh).
+
+_Last updated automatically._
