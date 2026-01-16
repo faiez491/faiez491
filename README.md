@@ -37,7 +37,7 @@ My focus is on delivering **working, reliable, and on-time solutions**.
 ---
 
 ## 📬 Contact Me
-- 📧 Email: your@email.com  
+- 📧 Email:faiezhusain11@gmailcom  
 - 💬 GitHub Issues / Discussions  
 
 **Open for paid tasks, short-term gigs, and collaborations.**
