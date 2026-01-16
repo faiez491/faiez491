@@ -1,11 +1,10 @@
-name: Profile Auto Update (Every 1 Hour)
+name: Profile Auto Update (Every 6 Hours)
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"   # runs every 6 hours
   workflow_dispatch:
 
-# 🔑 THIS IS THE FIX
 permissions:
   contents: write
 
@@ -27,5 +26,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Auto update profile (hourly)" || echo "No changes"
+          git commit -m "Auto update profile (6h)" || echo "No changes"
           git push
