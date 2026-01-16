@@ -2,7 +2,7 @@ name: Profile Auto Update (Every 1 Hour)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs every 1 hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README timestamp
+      - name: Update README timestamp safely
         run: |
-          sed -i '/_Last updated automatically:/d' README.md
           echo "" >> README.md
           echo "_Last updated automatically: $(date -u) UTC_" >> README.md
 
