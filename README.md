@@ -37,15 +37,10 @@ My focus is on delivering **working, reliable, and on-time solutions**.
 ---
 
 ## 📬 Contact Me
-- 📧 Email:faiezhusain11@gmailcom  
+- 📧 Email:faiezhusain11@gmailcom
+- telegram:@faiez491
 - 💬 GitHub Issues / Discussions  
 
 **Open for paid tasks, short-term gigs, and collaborations.**
 
 ---
-
-## ⚡ Profile Automation
-This profile is partially updated automatically using GitHub Actions  
-(to keep stats and activity fresh).
-
-_Last updated automatically._
