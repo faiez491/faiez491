@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
+<img align="middle" alt="count" src="https://count.getloli.com/get/@:faiez491?theme=rule34">
     
 > [!CAUTION]
 > _```Life is like an anime—full of plot twists, power-ups, and late-night debugging!```_
@@ -25,7 +25,7 @@
 
 [<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/otterai/)
 
-| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=otterai&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
+| <img align="center" src="https://github-stats-alpha.vercel.app/api/?username=faiez&cc=000&tc=00ff00&ic=fff000&bc=fff" alt="otterai's github stats" /></a> | <img align="center" alt="count" src=https://github.com/otterai/otterai/blob/main/GIF/pinterestdownloader.com-1741206996.729839.gif>
 | ------------- | ------------- |
 
 ![snake gif](https://github.com/ifeelscam/ifeelscam/blob/output/github-snake-dark.svg)
